@@ -1,0 +1,1 @@
+// For each Todo component, there should also be a button with the text “X” that when clicked, removes the todo.
